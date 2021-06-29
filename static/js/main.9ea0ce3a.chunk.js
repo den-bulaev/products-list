@@ -1,0 +1,2 @@
+(this["webpackJsonpproducts-list"]=this["webpackJsonpproducts-list"]||[]).push([[0],{11:function(t,n,c){"use strict";c.r(n);c(0);var e=c(3),s=c.n(e),r=(c(8),c(9),c(1));var i=function(){return Object(r.jsx)("h1",{children:"Hi"})};s.a.render(Object(r.jsx)(i,{}),document.getElementById("root"))},8:function(t,n,c){},9:function(t,n,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.9ea0ce3a.chunk.js.map
